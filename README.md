@@ -1,78 +1,71 @@
 # Hey, I'm Nikhil 👋
 
-I’m someone who grew up loving **football** and **Formula 1**, and somewhere along the line I realised that my engineering instinct to break systems apart fits perfectly with **machine learning** and the world of **raw data**.
+I grew up loving **football** and **Formula 1**, and somewhere along the way I realised my engineering instinct to break systems apart fits perfectly with **machine learning** and the world of **raw data**.
 
-My background began in **mechanical engineering** and evolved into **computer science**, but the common thread has always been the same:  
-I like understanding *how* things work — whether it’s an F1 power unit, a high press, or a dataset with hidden patterns.
+I began in **mechanical engineering**, shifted into **computer science**, and eventually found a space where both meet:  
+understanding how systems behave — whether it’s an F1 chassis, a football match, or a dataset full of hidden dynamics.
 
-That curiosity naturally pulls me deeper into:
+That curiosity naturally pulls me into:
 - machine learning  
 - data analysis  
-- model behaviour  
-
-…and also into other parts of computer science like cloud, software infrastructure, and tooling — not because I set out to specialise in them, but because they help me **build, scale, and experiment better** with the things I care about.
+- neural architectures  
+- understanding model behaviour  
+- cloud + software tools that help me experiment better  
 
 ---
 
 ## 🏎️⚽ Engineering + Sports + ML  
-Mechanical engineering gave me the mindset of:
-- optimisation  
-- system behaviour  
-- efficiency  
-- modelling cause-and-effect  
-
-Football taught me:
-- unpredictability  
-- human data  
-- flow  
-- context  
-
-Machine learning lets me merge these worlds — using structure + intuition to turn observations into insight.
+Mechanical engineering taught me optimisation, system modelling, and cause–effect reasoning.  
+Football taught me flow, unpredictability, and human data.  
+Machine learning lets me blend these — intuition + structure → insight.
 
 ---
 
 ## 🔍 What I Like Working On
-- Predictive modelling (football, medical data, behaviour)
-- CNNs, DNNs, hybrid neural architectures  
-- Understanding how models think  
+- Predictive modelling (football, medical, behavioural)
+- CNNs, DNNs, hybrid neural networks  
 - Exploratory data analysis  
-- Small, practical ML projects  
-- Experimenting with cloud + software tools when they help the workflow  
+- Lightweight, practical ML projects  
+- Cloud and backend tools when they support the ML workflow  
 
 ---
 
-## 🧩 Projects That Show This Blend
+## 🧩 Projects (Live on GitHub)
 
 ### ⚽ **FPL Player Performance Predictor**
-Using historical EPL data to forecast performance — mixing football intuition with regression modelling and feature engineering.
+Mixing football intuition with data: using historical EPL data to forecast expected points through regression modelling and feature engineering.  
+🔗 Repo: [fpl-player-performance-prediction](https://github.com/NikVinMay/fpl-player-performance-prediction)
 
-### 🫁 **Lung Cancer Classifier (HDCN)**
-A hybrid CNN/DNN model that detects early-stage patterns the way an engineer reads system signatures.
+### 🫁 **Lung Cancer Detection Using CNNs**
+A CNN-based classification pipeline exploring medical imaging, preprocessing, training workflows, and model evaluation.  
+🔗 Repo: [lung-cancer-cnn-classifier](https://github.com/NikVinMay/lung-cancer-cnn-classifier)
 
-### ❤️ **Heart Disease Predictor (Hybrid-CNN)**
-A project exploring how structured tabular data and CNNs can be combined intelligently.
+### 🚗 **Vehicle Dynamics Simulation**
+A physics-based simulation connecting mechanical intuition with computational modelling — acceleration, drag, load transfer.  
+🔗 Repo: [vehicle-dynamics-simulation](https://github.com/NikVinMay/vehicle-dynamics-simulation)
 
-### 🔐 **ECC for IoV**
-End-to-end elliptic curve cryptography pipeline for secure communication in Internet-of-Vehicles systems.
+### ☁️ **Cloud-Hosted FastAPI ML Service**
+A FastAPI microservice (containerised with Docker) with a simple ML endpoint, set up for cloud deployment.  
+🔗 Repo: [fastapi-ml-service](https://github.com/NikVinMay/fastapi-ml-service)
+
+### 📊 **Data Exploration & Analytics Pipeline**
+A reusable notebook workflow for cleaning, transforming, and visualising raw datasets.  
+🔗 Repo: [data-exploration-pipeline](https://github.com/NikVinMay/data-exploration-pipeline)
 
 ---
 
 ## 🛠️ Tools & Tech I Enjoy
-- **Python**  
-- **Pandas, NumPy, Scikit-learn**  
-- **TensorFlow/Keras (CNNs, DNNs)**  
-- **Jupyter Notebooks**  
-- **MATLAB / Simulink (engineering side)**  
-- **Azure / AWS (when projects need scaling or deployment)**  
-- **General software tools** that help me experiment better  
+**Python** · Pandas · NumPy · Scikit-learn · TensorFlow/Keras · FastAPI  
+**Jupyter Notebooks** · Docker · Azure · AWS  
+**MATLAB/Simulink** (engineering roots)
 
 ---
 
 ## 🌱 What I’m Exploring
-- More ML pipelines that connect engineering intuition + data  
-- Deeper understanding of neural network behaviour  
-- Cleaner project structure and reproducible experiments  
-- Using cloud/services *only when they make the project stronger*  
+- Better ML pipelines that blend engineering intuition + data  
+- Understanding how neural networks behave internally  
+- Making my GitHub more structured and reproducible  
+- Cloud + backend tools that make experimentation smoother  
 
 ---
 
@@ -80,4 +73,4 @@ End-to-end elliptic curve cryptography pipeline for secure communication in Inte
 **LinkedIn:** linkedin.com/in/nikhil-maymadom  
 **Email:** itsnikvinmay@gmail.com  
 
-If you’re into football, F1, ML, engineering intuition, or just enjoy the journey from raw data → insight, we’ll probably have a great conversation.
+If you’re into football, F1, ML, engineering intuition, or just enjoy the journey from raw data → insight, we’ll probably get along well.
